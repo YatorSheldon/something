@@ -1,0 +1,14 @@
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\bin\Debug\net8.0\multipleAccounts.exe
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\bin\Debug\net8.0\multipleAccounts.deps.json
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\bin\Debug\net8.0\multipleAccounts.runtimeconfig.json
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\bin\Debug\net8.0\multipleAccounts.dll
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\bin\Debug\net8.0\multipleAccounts.pdb
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\multipleAccounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\multipleAccounts.AssemblyInfoInputs.cache
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\multipleAccounts.AssemblyInfo.cs
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\multipleAccounts.csproj.CoreCompileInputs.cache
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\multipleAccounts.dll
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\refint\multipleAccounts.dll
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\multipleAccounts.pdb
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\multipleAccounts.genruntimeconfig.cache
+C:\Users\yator\source\repos\multipleAccounts\multipleAccounts\obj\Debug\net8.0\ref\multipleAccounts.dll
